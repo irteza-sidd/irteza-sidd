@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @irteza-sidd
-- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me irtizaibnerehan@gmail.com
